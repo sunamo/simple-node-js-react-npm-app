@@ -1,7 +1,5 @@
 pipeline {
-    agent {
-        label 'wsl-agent'
-    }
+    agent any
     tools {nodejs "nodejs"}
 
     stages {
