@@ -1,18 +1,20 @@
 ---
 schema_version: 3
-type: real-app
-file_count: 22
-delete_recommendation_percent: 45
+type: sample
+file_count: 23
+delete_recommendation_percent: 85
 generated_date: 2026-09-30
-generated_time: 13:05:35
-github_origin: no
-github_source_url: 
+generated_time: 16:08:38
+github_origin: yes
+github_source_url: https://github.com/jenkins-docs/simple-node-js-react-npm-app
 ---
 
 ## Description
 
-This repository is for the Build a Node.js and React app with npm tutorial in the Jenkins User Documentation.
+Ukázková appka Node.js a React (create-react-app) z tutoriálu Jenkins User Documentation Build a Node.js and React app with npm. Obsahuje Jenkinsfile, skripty test.sh, deliver.sh a kill.sh pro fáze Test a Deliver a Taskfile.yml s tasky dev a rel. Slouží jako cvičný CI/CD příklad.
 
 ## Původ zdrojáků
 
-Staženo z GitHubu: **ne** — podle remote a metadat repa nejde o zdrojáky stažené z GitHubu.
+Staženo z GitHubu: **ano** — [jenkins-docs/simple-node-js-react-npm-app](https://github.com/jenkins-docs/simple-node-js-react-npm-app)
+
+- Zdroj určen podle: původní README z Jenkins dokumentace; hash shoda package.json, public/manifest.json, src/App.js a src/index.js s dřívějším commitem 5579f39 upstreamu (HEAD je mezitím přepsaný na Vite) a favicon.ico s HEAD; složka JavaScript_Projects má stejný projekt jako fork
