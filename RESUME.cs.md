@@ -1,5 +1,5 @@
 ---
-schema_version: 3
+schema_version: 4
 type: sample
 file_count: 23
 delete_recommendation_percent: 85
@@ -18,3 +18,11 @@ Ukázková appka Node.js a React (create-react-app) z tutoriálu Jenkins User Do
 Staženo z GitHubu: **ano** — [jenkins-docs/simple-node-js-react-npm-app](https://github.com/jenkins-docs/simple-node-js-react-npm-app)
 
 - Zdroj určen podle: původní README z Jenkins dokumentace; hash shoda package.json, public/manifest.json, src/App.js a src/index.js s dřívějším commitem 5579f39 upstreamu (HEAD je mezitím přepsaný na Vite) a favicon.ico s HEAD; složka JavaScript_Projects má stejný projekt jako fork
+
+## Doporučení ke smazání
+
+Doporučení ke smazání: **85 %** — oficiální Jenkins ukázka, duplicita stejnojmenného repa v JavaScript_Projects
+
+- Kopie jenkins-docs/simple-node-js-react-npm-app, k tomu jen Taskfile.yml (poslední změna 2026-07-04).
+- Stejný zdroj je i v JavaScript_Projects\simple-node-js-react-npm-app.
+- Nic vlastního zde není.
