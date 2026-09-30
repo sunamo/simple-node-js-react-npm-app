@@ -10,3 +10,7 @@ generated_time: 13:05:35
 ## Description
 
 This repository is for the Build a Node.js and React app with npm tutorial in the Jenkins User Documentation.
+
+## Původ zdrojáků
+
+Staženo z GitHubu: **ne** — podle remote a metadat repa nejde o zdrojáky stažené z GitHubu.
