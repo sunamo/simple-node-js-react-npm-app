@@ -1,5 +1,5 @@
 ---
-schema_version: 3
+schema_version: 4
 type: sample
 file_count: 22
 delete_recommendation_percent: 80
@@ -19,3 +19,10 @@ Staženo z GitHubu: **ano** — [jenkins-docs/simple-node-js-react-npm-app](http
 
 - Zdroj určen podle: remote `sunamo/simple-node-js-react-npm-app` je podle GitHub API fork tohoto repa, README je původní z Jenkins dokumentace, hash `.gitattributes`, `.gitignore` a `public/favicon.ico` je shodný s originálem (`package.json` a `src/App.js` se liší, protože upstream mezitím vývoj změnil)..
 
+## Doporučení ke smazání
+
+Doporučení ke smazání: **80 %** — oficiální Jenkins ukázka, kterou lze znovu stáhnout z GitHubu
+
+- Kopie jenkins-docs/simple-node-js-react-npm-app; poslední obsahová změna je z 2026-05-29.
+- Stejný obsah je i v repu Jenkins_Projects\simple-node-js-react-npm-app.
+- Vlastní kód téměř žádný.
