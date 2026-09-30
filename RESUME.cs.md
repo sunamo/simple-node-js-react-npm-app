@@ -1,5 +1,5 @@
 ---
-schema_version: 4
+schema_version: 5
 type: sample
 file_count: 22
 delete_recommendation_percent: 80
@@ -7,6 +7,9 @@ generated_date: 2026-09-30
 generated_time: 16:05:58
 github_origin: yes
 github_source_url: https://github.com/jenkins-docs/simple-node-js-react-npm-app
+first_commit_date: 2017-10-09
+last_commit_date: 2026-09-30
+commit_count: 105
 ---
 
 ## Description
@@ -26,3 +29,11 @@ Doporučení ke smazání: **80 %** — oficiální Jenkins ukázka, kterou lze 
 - Kopie jenkins-docs/simple-node-js-react-npm-app; poslední obsahová změna je z 2026-05-29.
 - Stejný obsah je i v repu Jenkins_Projects\simple-node-js-react-npm-app.
 - Vlastní kód téměř žádný.
+
+## Historie commitů
+
+- První commit: 2017-10-09
+- Poslední commit: 2026-09-30
+- Celkem commitů: 105
+
+- Počítá se bez commitů, které jen generovaly RESUME.cs.md nebo README.md.
