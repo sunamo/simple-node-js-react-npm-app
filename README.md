@@ -1,5 +1,9 @@
 # simple-node-js-react-npm-app
 
+## Short description
+
+Ukázková aplikace Node.js a React pro tutoriál Jenkins "Build a Node.js and React app with npm". Obsahuje jednoduchou stránku "Welcome to React", test, `Jenkinsfile` a skripty `test.sh`, `deliver.sh` a `kill.sh` ve `jenkins/scripts`. Jde o oficiální ukázku bez vlastního vývoje.
+
 This repository is for the
 [Build a Node.js and React app with npm](https://jenkins.io/doc/tutorials/build-a-node-js-and-react-app-with-npm/)
 tutorial in the [Jenkins User Documentation](https://jenkins.io/doc/).

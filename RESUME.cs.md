@@ -1,15 +1,17 @@
 ---
-schema_version: 5
+schema_version: 6
 type: sample
 file_count: 22
-delete_recommendation_percent: 80
-generated_date: 2026-09-30
-generated_time: 16:05:58
-github_origin: yes
+avg_lines_per_file: 1034
+move_to_legacy_percent: 80
+generated_date: 2026-10-01
+generated_time: 16:41:06
 github_source_url: https://github.com/jenkins-docs/simple-node-js-react-npm-app
-first_commit_date: 2017-10-09
-last_commit_date: 2026-09-30
-commit_count: 105
+last_build_ok: 
+last_build_date: 
+last_tests_run_date: 
+covered_lines: 
+total_lines: 
 ---
 
 ## Description
@@ -22,18 +24,15 @@ Staženo z GitHubu: **ano** — [jenkins-docs/simple-node-js-react-npm-app](http
 
 - Zdroj určen podle: remote `sunamo/simple-node-js-react-npm-app` je podle GitHub API fork tohoto repa, README je původní z Jenkins dokumentace, hash `.gitattributes`, `.gitignore` a `public/favicon.ico` je shodný s originálem (`package.json` a `src/App.js` se liší, protože upstream mezitím vývoj změnil)..
 
-## Doporučení ke smazání
+## Doporučení přesunu do legacy
 
-Doporučení ke smazání: **80 %** — oficiální Jenkins ukázka, kterou lze znovu stáhnout z GitHubu
+Doporučení přesunu do sunamocz-legacy.visualstudio.com: **80 %** — oficiální Jenkins ukázka, kterou lze znovu stáhnout z GitHubu
 
 - Kopie jenkins-docs/simple-node-js-react-npm-app; poslední obsahová změna je z 2026-05-29.
 - Stejný obsah je i v repu Jenkins_Projects\simple-node-js-react-npm-app.
 - Vlastní kód téměř žádný.
 
-## Historie commitů
+## Vazby na moje repa
 
-- První commit: 2017-10-09
-- Poslední commit: 2026-09-30
-- Celkem commitů: 105
-
-- Počítá se bez commitů, které jen generovaly RESUME.cs.md nebo README.md.
+- Submoduly: žádné
+- ProjectReference / PackageReference: žádné
