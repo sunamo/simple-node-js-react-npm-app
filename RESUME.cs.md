@@ -10,7 +10,7 @@ description_updated: 2026-10-01
 links_updated: 2026-10-01
 github_source_url: https://github.com/jenkins-docs/simple-node-js-react-npm-app
 origin_status: found
-origin_checked: n/a
+origin_checked: 2026-10-01
 article_source_url: https://www.jenkins.io/doc/tutorials/build-a-node-js-and-react-app-with-npm/
 article_status: found
 article_checked: 2026-10-03
