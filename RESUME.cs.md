@@ -1,5 +1,5 @@
 ---
-schema_version: 9
+schema_version: 10
 type: sample
 file_count: 22
 avg_lines_per_file: 1034
@@ -16,7 +16,7 @@ article_status: found
 article_checked: 2026-10-03
 last_build_ok: yes
 last_build_date: 2026-10-02
-last_tests_run_date: n/a
+last_tests_run_date: not run
 covered_lines: 0
 ---
 
