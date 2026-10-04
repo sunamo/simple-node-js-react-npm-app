@@ -1,17 +1,26 @@
 ---
-schema_version: 7
-type: sample
+schema_version: 11
+type: notmine-sample
+category_override: none
 file_count: 23
+file_extensions: js:4, json:4, noext:4, sh:3, css:2, md:2, html:1, ico:1, svg:1, yml:1
+file_extensions_updated: 2026-10-04
 avg_lines_per_file: 974
+total_lines: 300
+metrics_lm: 2026-10-01 16:41:08
 move_to_legacy_percent: 85
-generated_date: 2026-10-01
-generated_time: 16:41:08
+description_updated: 2026-10-01
+links_updated: 2026-10-01
 github_source_url: https://github.com/jenkins-docs/simple-node-js-react-npm-app
+origin_status: found
+origin_checked: 2026-10-01
+article_source_url: https://www.jenkins.io/doc/tutorials/build-a-node-js-and-react-app-with-npm/
+article_status: found
+article_checked: 2026-10-03
 last_build_ok: yes
 last_build_date: 2026-10-02
-last_tests_run_date: n/a
+last_tests_run_date: not run
 covered_lines: 0
-total_lines: 300
 ---
 
 ## Description
@@ -23,6 +32,10 @@ Ukázková appka Node.js a React (create-react-app) z tutoriálu Jenkins User Do
 Staženo z GitHubu: **ano** — [jenkins-docs/simple-node-js-react-npm-app](https://github.com/jenkins-docs/simple-node-js-react-npm-app)
 
 - Zdroj určen podle: původní README z Jenkins dokumentace; hash shoda package.json, public/manifest.json, src/App.js a src/index.js s dřívějším commitem 5579f39 upstreamu (HEAD je mezitím přepsaný na Vite) a favicon.ico s HEAD; složka JavaScript_Projects má stejný projekt jako fork
+
+Převzato z článku: [Build a Node.js and React app with npm (Jenkins docs)](https://www.jenkins.io/doc/tutorials/build-a-node-js-and-react-app-with-npm/)
+
+- Článek určen podle: README uvadi tento tutorial, stranka overena.
 
 ## Doporučení přesunu do legacy
 
