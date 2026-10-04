@@ -1,7 +1,10 @@
 ---
-schema_version: 10
+schema_version: 11
 type: notmine-sample
+category_override: none
 file_count: 22
+file_extensions: js:4, json:4, noext:4, sh:3, css:2, md:2, html:1, ico:1, svg:1
+file_extensions_updated: 2026-10-04
 avg_lines_per_file: 1034
 total_lines: 300
 metrics_lm: 2026-10-01 16:41:06
